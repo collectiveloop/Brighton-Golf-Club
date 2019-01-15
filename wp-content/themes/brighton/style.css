@@ -1,0 +1,76 @@
+/*
+Theme Name:Brighton Golf Club
+Author:John Beggs
+Theme URL:http://brightongolfclub.com.au/
+Author URL:http://www.collectiveloop.com/
+Version:1
+
+*/
+.website_url_partner a {
+  margin-bottom: 0;
+}
+.generous_imag {
+  margin-bottom: 0px;
+}
+.committe_another_style p {
+  color: #000;
+}
+.handicapper_LADIES h3{color:#000}
+.single_club_specilty img {
+  height: auto;
+  width: auto;
+}
+.date_download_year p {
+  margin: 0;
+}
+h2.date_download_year {
+  margin: 0;
+}
+.single_conatct_details_poromotion > a {
+  color: #000;
+  display: block;
+  margin-top: 10px;
+}
+.contact_us_news_area {
+  overflow: hidden;
+}
+
+span.wpcf7-not-valid-tip {
+  color: #8b0000;
+}
+div.wpcf7-validation-errors {
+  border: 0 solid #fff;
+  color: #8b0000;
+}
+section.contact_us_clubrooms_area_new div.wpcf7-validation-errors {
+  border: 0 solid #fff;
+  color: red;
+}
+section.contact_us_clubrooms_area_new span.wpcf7-not-valid-tip {
+  color: red;
+}
+div.just_fonts_c p {
+  font-size: 17px;
+}
+.book_club_ar a {
+  font-size: 14px;
+  width: inherit;
+}
+
+.single_benefits img {
+  width: 100%;
+  height: auto;
+}
+.memebrship_page_member_login_area_home {
+  padding-bottom: 25px;
+}
+
+div.wow_news{min-height:0px;}
+
+.header_top_content ul li a, .header_top_right ul li a{color:#000;}
+
+.div.wpcf7-mail-sent-ok{color:#8b0000;border:0px solid #398f14}
+
+.g-recaptcha div {
+  margin: 0 auto;
+}

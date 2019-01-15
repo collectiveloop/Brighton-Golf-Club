@@ -1,0 +1,14 @@
+[05-Oct-2018 12:03:47 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/content-none.php on line 15
+[05-Oct-2018 14:40:15 CST6CDT] PHP Fatal error:  Call to undefined function the_ID() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/content-page.php on line 11
+[05-Oct-2018 17:08:02 CST6CDT] PHP Fatal error:  Call to undefined function do_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/footer.php on line 23
+[05-Oct-2018 19:40:07 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/index.php on line 17
+[05-Oct-2018 22:23:38 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[06-Oct-2018 00:58:07 CST6CDT] PHP Fatal error:  Call to undefined function the_ID() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/content-search.php on line 13
+[06-Oct-2018 03:35:45 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/header.php on line 12
+[06-Oct-2018 06:08:24 CST6CDT] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/sidebar.php on line 10
+[06-Oct-2018 08:53:20 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/functions.php on line 41
+[06-Oct-2018 11:44:16 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/image.php on line 10
+[06-Oct-2018 14:19:52 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/page.php on line 14
+[06-Oct-2018 16:46:24 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/search.php on line 10
+[07-Oct-2018 00:22:54 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/archive.php on line 19
+[07-Oct-2018 02:59:21 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/single.php on line 10

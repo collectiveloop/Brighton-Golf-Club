@@ -1,0 +1,4 @@
+[25-Oct-2018 20:00:08 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[25-Oct-2018 23:45:00 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 04:03:46 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/inc/customizer.php on line 70
+[26-Oct-2018 08:40:32 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

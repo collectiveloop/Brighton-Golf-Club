@@ -1,0 +1,2 @@
+[08-Nov-2018 01:35:12 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentythirteen/index.php on line 17
+[08-Nov-2018 07:26:32 CST6CDT] PHP Fatal error:  Call to undefined function post_password_required() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/themes/twentythirteen/comments.php on line 16

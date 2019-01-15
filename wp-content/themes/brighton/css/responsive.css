@@ -1,0 +1,411 @@
+.container{transition:all 0.9s ease 0s;-moz-transition:all 0.9s ease 0s;-webkit-transition:all 0.9s ease 0s;-o-transition: all 0.9s ease 0s;}
+
+#navigation-area {
+width:100%;
+}
+#navigation-area.stick {
+    position: fixed;
+    top: 0;
+    z-index: 10000;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+.single_benefits_membership {
+  min-height: 1080px;
+}
+.befits_promo_content_img h2 {
+  font-size: 19px;
+}
+div.find_more_membership {
+  min-height: 468px;
+}
+
+.events_date_time tr td {
+  font-size: 15px;
+}
+.logo {
+  height: 350px;
+}
+.another_new_s_j {
+  min-height: 515px;
+}
+#saiful106, #saiful107 {
+  min-height: 593px;
+}
+.Commeitte_member {
+  min-height: 515px;
+}
+div.nes_rahmath p {
+  font-size: 18px;
+}
+#wowo {
+  font-size: 16px;
+}
+.wowo_content p {
+  font-size: 16px;
+}
+
+
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.navbar-nav li a {
+  font-size: 14px;
+}
+.sologan p {
+  font-size: 18px;
+}
+.befits_promo_content p {
+  font-size: 14px;
+}
+.befits_promo_content_img h2 {
+  font-size: 20px;
+}
+.single_benefits {
+  min-height: 500px;
+}
+.single_club_specilty p {
+  font-size: 13px;
+}
+.single_club_specilty h2 {
+  font-size: 20px;
+}
+.member_text_right p {
+  font-size: 14px;
+}
+.footer_tab_height {
+  min-height: 280px;
+}
+.copyright {
+  margin-top: 0;
+}
+div.find_more_membership {
+  min-height: 448px;
+}
+div.find_more_membership {
+  min-height: 240px;
+}
+.single_benefits_membership {
+  min-height: 910px;
+}
+.membership_two {
+  min-height: 0;
+}
+.befits_promo_content {
+  padding: 0 35px 11px;
+}
+.latest_news {
+  min-height: 814px;
+}
+.events_date_time tr td {
+  font-size: 12px;
+}
+#right_td {
+  padding-left: 5px;
+}
+.latest_news_event {
+  background-color: #ecebeb;
+  min-height: 550px;
+}
+.single_about_meet_tem_woman h1 {
+  font-size: 22px;
+}
+.logo {
+  height: 350px;
+}
+#saiful103,#saiful106 {
+  min-height: 230px;
+}
+#saiful107 {
+  min-height: 470px;
+}
+.another_new_s_j {
+  min-height: 533px;
+}
+.Commeitte_member {
+  min-height: 425px;
+}
+#wowo {
+  font-size: 17px;
+}
+div.wowo_content {
+  min-height: 160px;
+}
+.another_new_s_j {
+  margin-bottom: 10px;
+  min-height: 370px;
+}
+
+/*For Blog*/
+.new_blog_post_height {
+  height: 570px;
+
+}
+
+
+
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.logo img {
+  height: 120px;
+  width: auto;
+}
+.contact_us {
+  width: 280px;
+}
+.member_image_left img {
+  width: 100%;
+}
+.header_top_left {
+  float: none;
+}
+.navbar-nav {
+  text-align: inherit;
+}
+.navbar-nav li a {
+  display: block;
+}
+.navbar-nav li {
+  display: block;
+  border-bottom: 1px solid#ccc;
+}
+.fa.fa-bars {
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 20px;
+  padding: 5px 10px;
+}
+.navbar-toggle {
+  margin: 0;
+}
+.member_text_right p {
+  margin: 7px 0 10px;
+}
+.member_image_left {
+  text-align: center;
+}
+div.go_to_login {
+  text-align: center;
+}
+.single_benefits {
+  margin-bottom: 20px;
+}
+.footer_tab_height {
+  margin-bottom: 25px;
+}
+.footer_top_menu ul li {
+  text-align: center;
+}
+.title h3::after {
+  width: 100%;
+}
+.footer_top_weather {
+  margin: 0 auto;
+  width: 280px;
+}
+.footer_top_address {
+  text-align: center;
+}
+.social_icon_footer {
+  text-align: center;
+}
+div.membership_s p {
+  font-size: 18px;
+}
+div.find_more_membership {
+  min-height: inherit;
+}
+.find_more {
+  min-height: inherit;
+}
+.single_benefits {
+  padding-bottom: 10px;
+}
+.tree_video {
+  width: 300px;
+}
+.tree_video iframe {
+  height: 250px;
+}
+.memberhip_tree_height {
+  height: 400px;
+}
+.tree_anchor {
+  margin-right: -73px;
+}
+.single_fetures_clubrooms {
+  float: none;
+  width: 100%;
+}
+.sologan_section {
+  margin-bottom: 0;
+}
+.fetures_clubrooms h2 {
+  margin-top: 0;
+}
+.befits_promo_content p {
+  font-size: 15px;
+}
+.latest_news {
+  min-height: inherit;
+  margin-bottom: 15px;
+}
+.befits_promo_content {
+  padding: 0 20px 10px;
+}
+.charity_left {
+  margin-bottom: 15px;
+}
+.syllbus_area_width {
+  width: 300px;
+}
+.syllbus_area_left {
+  float: none;
+  width: 100%;
+}
+.syllbus_area_right {
+  float: none;
+  width: 100%;
+}
+div.home_changes_area {
+  min-height: 0px;
+}
+.logo {
+  height: 120px;
+}
+.single_benefits_membership img {
+  height: auto;
+}
+.latest_news img, .latest_news_event img {
+  height: auto;
+}
+.member_image_left img {
+  height: auto;
+}
+div#simpleweather-widget {
+  margin: 0 auto;
+}
+.single_benefits img {
+  height: auto;
+}
+.single_benefits {
+  margin-bottom: 10px;
+}
+.member_text_right p {
+  font-size: 13px;
+}
+.single_conatct_details_poromotion {
+  float: none;
+  width: 100%;
+  margin-bottom: 40px;
+}
+#saiful106, #saiful107,#saiful108 {
+  min-height: 0px;
+}
+.another_new_s_j {
+  min-height: 0px;
+}
+.committe_another_style {text-align:center}
+#sticky-anchor{display:none;}
+.tree_anchor a {
+  font-size: 18px;
+
+}
+.tree_anchor {
+
+  width: 42%;
+}
+div.wowo_content {
+  min-height: 0;
+}
+
+/*For Blog*/
+
+.new_blog_post_height {
+  height: auto;
+}
+.new_blog_post_height img {
+  height: auto;
+}
+
+
+
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.logo img {
+  height: 300px;
+}
+.contact_us {
+  width: 450px;
+}
+.header_top_left {
+  float: left;
+}
+.member_text_right p {
+  text-align: center;
+}
+.tree_video {
+  width: 450px;
+}
+.tree_video iframe {
+  height: 250px;
+}
+.memberhip_tree_height {
+  height: 400px;
+}
+.tree_anchor {
+  margin-right: -73px;
+}
+.single_fetures_clubrooms {
+  float: left;
+  width: 50%;
+}
+.syllbus_area_width {
+  width: 450px;
+}
+.logo {
+  height: 300px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tee Up\n"
+"POT-Creation-Date: 2015-07-23 16:39-0300\n"
+"PO-Revision-Date: 2015-07-27 22:47+0100\n"
+"Last-Translator: Sandro Godoy <sandro@konceptu.com>\n"
+"Language-Team: Sandro Godoy <sandro@konceptu.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "404 error: Not found..."
+msgstr "Erro 404 - Página não Encontrada"
+
+#: 404.php:24
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching, or one of "
+"the links below, can help."
+msgstr ""
+"Parece que não conseguimos encontrar o que você está procurando. Talvez a "
+"pesquisa possa ajudar."
+
+#: archive-courses.php:32
+msgid "Courses"
+msgstr "Cursos"
+
+#: archive-courses.php:58 archive-events.php:58 content.php:45
+#: inc/inc-courses.php:47 inc/inc-events.php:62 page-courses.php:71
+#: page-events.php:85 search.php:75
+msgid "Read More"
+msgstr "Leia Mais"
+
+#: archive-courses.php:63
+msgid "Course Informations"
+msgstr "Informações do curso"
+
+#: archive-courses.php:79 single-courses.php:56
+msgid "Contact the teacher"
+msgstr "Contatar o Professor"
+
+#: archive-courses.php:84 single-courses.php:68
+msgid "/hour"
+msgstr "/hora"
+
+#: archive-events.php:32
+msgid "Events"
+msgstr "Eventos"
+
+#: archive-events.php:64 single-events.php:42
+msgid "When Is It ?"
+msgstr "Quando é?"
+
+#: archive-events.php:72 inc/theme-init.php:230
+msgid "January"
+msgstr "Janeiro"
+
+#: archive-events.php:73 inc/theme-init.php:233
+msgid "February"
+msgstr "Fevereiro"
+
+#: archive-events.php:74 inc/theme-init.php:236
+msgid "March"
+msgstr "Março"
+
+#: archive-events.php:75 inc/theme-init.php:239
+msgid "April"
+msgstr "Abril"
+
+#: archive-events.php:76 inc/theme-init.php:242
+msgid "May"
+msgstr "Maio"
+
+#: archive-events.php:77 inc/theme-init.php:245
+msgid "June"
+msgstr "Junho"
+
+#: archive-events.php:78 inc/theme-init.php:248
+msgid "July"
+msgstr "Julho"
+
+#: archive-events.php:79 inc/theme-init.php:251
+msgid "August"
+msgstr "Agosto"
+
+#: archive-events.php:80 inc/theme-init.php:254
+msgid "September"
+msgstr "Setembro"
+
+#: archive-events.php:81 inc/theme-init.php:257
+msgid "October"
+msgstr "Outubro"
+
+#: archive-events.php:82 inc/theme-init.php:260
+msgid "November"
+msgstr "Novembro"
+
+#: archive-events.php:83 inc/theme-init.php:263
+msgid "December"
+msgstr "Dezembro"
+
+#: archive-events.php:88 single-events.php:63
+msgid "Where ?"
+msgstr "Onde ?"
+
+#: archive-events.php:95 single-events.php:73
+msgid "Got a Question ?"
+msgstr "Tenho uma pergunta"
+
+#: archive-events.php:102 single-events.php:80
+msgid "Sign Up"
+msgstr "Inscrever-se"
+
+#: archive.php:33
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Arquivos Diários: %s"
+
+#: archive.php:35
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Arquivos Mensais: %s"
+
+#: archive.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Arquivos Anuais: %s"
+
+#: archive.php:39
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Arquivos de Categoria: %s"
+
+#: archive.php:41
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arquivo por Tag %s"
+
+#: archive.php:43 page-sitemap.php:54
+msgid "Archives"
+msgstr "Arquivos"
+
+#: buddypress.php:33
+msgid "This is a private area, please log in."
+msgstr "Esta é uma área privada, efetue o login."
+
+#: buddypress.php:58 content.php:38 inc/theme-comments.php:44 page.php:51
+msgid "Edit"
+msgstr "Editar"
+
+#: buddypress/activity/index.php:19
+msgid "The public activity for everyone on this site."
+msgstr "Feed de atividades para todos no site."
+
+#: buddypress/activity/index.php:19
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Todos Membros <span>%s</span>"
+
+#: buddypress/activity/index.php:29
+msgid "The activity of my friends only."
+msgstr "Atividades apenas dos meus amigos"
+
+#: buddypress/activity/index.php:29
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Meus Amigos <span>%s</span>"
+
+#: buddypress/activity/index.php:41
+msgid "The activity of groups I am a member of."
+msgstr "Atividade dos grupos dos quais sou membro."
+
+#: buddypress/activity/index.php:41
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Meus grupos <span>%s</span>"
+
+#: buddypress/activity/index.php:51
+msgid "The activity I've marked as a favorite."
+msgstr "A atividade que eu marquei como favorita."
+
+#: buddypress/activity/index.php:51
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Meus Favoritos <span>%s</span>"
+
+#: buddypress/activity/index.php:59
+msgid "Activity that I have been mentioned in."
+msgstr "Atividade que eu tenha sido mencionado"
+
+#: buddypress/activity/index.php:59
+msgid "Mentions"
+msgstr "Menções"
+
+#: buddypress/activity/index.php:59
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s novo"
+msgstr[1] "%s novos"
+
+#: buddypress/activity/index.php:71
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+#: buddypress/activity/index.php:71
+msgid "RSS"
+msgstr "RSS"
+
+#: buddypress/activity/index.php:76
+msgid "Show:"
+msgstr "Exibir:"
+
+#: buddypress/activity/index.php:78
+msgid "Everything"
+msgstr "Tudo"
+
+#: buddypress/activity/index.php:79
+msgid "Updates"
+msgstr "Atualizações"
+
+#: buddypress/activity/index.php:83
+msgid "Posts"
+msgstr "Posts"
+
+#: buddypress/activity/index.php:84
+msgid "Comments"
+msgstr "Comentários"
+
+#: buddypress/activity/index.php:90
+msgid "Forum Topics"
+msgstr "Tópicos do Fórum"
+
+#: buddypress/activity/index.php:91
+msgid "Forum Replies"
+msgstr "Respostas do Fórum"
+
+#: buddypress/activity/index.php:97
+msgid "New Groups"
+msgstr "Novos Grupos"
+
+#: buddypress/activity/index.php:98
+msgid "Group Memberships"
+msgstr "Membros do Grupo"
+
+#: buddypress/activity/index.php:104
+msgid "Friendships"
+msgstr "Amizades"
+
+#: buddypress/activity/index.php:108
+msgid "New Members"
+msgstr "Novos Membros"
+
+#: comments.php:30
+msgid "Send your Comment"
+msgstr "Envie seu comentário"
+
+#: comments.php:31
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deixe uma resposta para% s"
+
+#: comments.php:32
+msgid "Cancel Reply"
+msgstr "Cancelar Resposta"
+
+#: comments.php:33 inc/theme-forms.php:71
+msgid "Post Comment"
+msgstr "Postar Comentário"
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto para publicar o seu primeiro post? <a href=“%1$s”>Comece aqui</a>."
+
+#: content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada combinou com seus termos de pesquisa. Por favor, tente "
+"novamente com palavras-chave diferentes."
+
+#: content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não encontramos o que você está procurando. Talvez a busca possa "
+"ajudar."
+
+#: header.php:127
+msgid "Logo Image"
+msgstr "Logotipo (Imagem)"
+
+#: header.php:133
+msgid "Logo Fixed Image"
+msgstr "Imagem do Logotipo Fixo"
+
+#: inc/inc-contact.php:43
+msgid "Message From Your Website"
+msgstr "Mensagem Do Seu Site"
+
+#: inc/inc-contact.php:59 single-courses.php:156 single-events.php:265
+msgid "Thanks"
+msgstr "Obrigado"
+
+#: inc/inc-contact.php:60
+msgid ""
+"Your message was sent successfully. You will receive a response shortly."
+msgstr ""
+"Sua mensagem foi enviada com sucesso. Você receberá uma resposta em breve."
+
+#: inc/inc-contact.php:66 single-courses.php:163 single-events.php:272
+msgid "Sorry,"
+msgstr "Desculpe,"
+
+#: inc/inc-contact.php:67
+msgid ""
+"Your message can't be send...check if your email is correct otherwise a "
+"field is missing..."
+msgstr ""
+"Sua mensagem não pôde ser enviada... Cheque se seu e-mail está correto, caso "
+"contrário um campo pode estar faltando..."
+
+#: inc/inc-contact.php:75 inc/inc-contact.php:110
+msgid "Information"
+msgstr "Informação"
+
+#: inc/inc-contact.php:81 inc/theme-forms.php:50
+msgid "Name"
+msgstr "Nome"
+
+#: inc/inc-contact.php:87 inc/theme-forms.php:52 single-courses.php:185
+#: single-events.php:294
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/inc-contact.php:93
+msgid "Message"
+msgstr "Mensagem"
+
+#: inc/inc-contact.php:101
+msgid "Send"
+msgstr "Enviar"
+
+#: inc/inc-contact.php:114 inc/theme-panel/theme-settings.php:322
+msgid "Phone"
+msgstr "Telefone"
+
+#: inc/inc-contact.php:115 inc/theme-panel/theme-settings.php:328
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/inc-courses.php:43 page-courses.php:67
+msgid "per hour"
+msgstr "por hora"
+
+#: inc/inc-courses.php:62
+msgid "All courses"
+msgstr "Todos os Cursos"
+
+#: inc/inc-events.php:79
+msgid "All Events"
+msgstr "Todos os Eventos"
+
+#: inc/inc-gallery.php:63
+msgid "All Photos"
+msgstr "Todas as Fotos"
+
+#: inc/meta-box/inc/classes/meta-box.php:284
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Por favor corrija os erros destacados abaixo e tente novamente."
+
+#: inc/meta-box/inc/classes/meta-box.php:342
+msgid "+"
+msgstr "+"
+
+#: inc/meta-box/inc/classes/meta-box.php:364
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: inc/meta-box/inc/fields/file.php:65
+msgid "Error: Cannot delete file"
+msgstr "Erro: Não pode deletar o arquivo"
+
+#: inc/meta-box/inc/fields/file.php:79
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Excluir"
+
+#: inc/meta-box/inc/fields/file.php:80
+msgctxt "file upload"
+msgid "Upload files"
+msgstr "Enviar arquivos"
+
+#: inc/meta-box/inc/fields/file.php:81
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Adicionar novo arquivo"
+
+#: inc/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr "Pedido Salvo"
+
+#: inc/meta-box/inc/fields/image.php:78
+#: inc/meta-box/inc/fields/thickbox-image.php:35
+msgctxt "image upload"
+msgid "Upload images"
+msgstr "Enviar Imagens"
+
+#: inc/meta-box/inc/fields/image.php:79
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Adicionar nova imagem"
+
+#: inc/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Excluir"
+
+#: inc/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr "Encontrar Endereço"
+
+#: inc/meta-box/inc/fields/plupload-image.php:87
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Arquivos de Imagem Permitidos"
+
+#: inc/meta-box/inc/fields/plupload-image.php:111
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Arraste Aqui - Imagens"
+
+#: inc/meta-box/inc/fields/plupload-image.php:112
+msgctxt "image upload"
+msgid "or"
+msgstr "ou"
+
+#: inc/meta-box/inc/fields/plupload-image.php:113
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Selecione Imagens"
+
+#: inc/meta-box/inc/fields/select-advanced.php:82
+msgid "Select a value"
+msgstr "Selecione um valor"
+
+#: inc/theme-comments.php:13
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/theme-comments.php:13
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/theme-comments.php:34
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+#: inc/theme-comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando aprovação."
+
+#: inc/theme-comments.php:47
+msgid "<i class=\"icon-pencil\"></i> Reply"
+msgstr "<i class=\"icon-pencil\"></i> Resposta"
+
+#: inc/theme-custom-composer.php:22
+msgid "Tee Separation"
+msgstr "Separação Tee"
+
+#: inc/theme-custom-composer.php:29
+msgid "Tee Sponsors"
+msgstr "Patrocinadores Tee"
+
+#: inc/theme-custom-composer.php:31
+msgid "Display all the sponsors (only full width please, no columns)."
+msgstr ""
+"Exiba todos os patrocinadores (apenas largura total por favor, não há "
+"colunas)."
+
+#: inc/theme-custom-composer.php:37
+msgid "Tee Staff"
+msgstr "Equipe Tee"
+
+#: inc/theme-custom-composer.php:39
+msgid "Display all the staff (only full width please, no columns)."
+msgstr ""
+"Exiba todos os funcionários (apenas largura total por favor, não há colunas)."
+
+#: inc/theme-custom-composer.php:45
+msgid "Tee Courses"
+msgstr "Cursos Tee"
+
+#: inc/theme-custom-composer.php:47
+msgid "Display all the courses (only full width please, no columns)."
+msgstr ""
+"Exiba todos os cursos (apenas largura total por favor, não há colunas)."
+
+#: inc/theme-custom-composer.php:55 inc/theme-custom-composer.php:82
+#: inc/theme-custom-composer.php:109
+msgid "Button Url"
+msgstr "Botão URL"
+
+#: inc/theme-custom-composer.php:58
+msgid "Link to the courses page, where all the events are displayed."
+msgstr "Link para a página de cursos, onde todos os eventos são exibidos."
+
+#: inc/theme-custom-composer.php:64 inc/theme-custom-composer.php:91
+msgid "Number events displayed"
+msgstr "Números eventos exibidos"
+
+#: inc/theme-custom-composer.php:67 inc/theme-custom-composer.php:94
+msgid "Only number please (between 3 and 16, 6 is advised)."
+msgstr "Somente números por favor (entre 3 e 16, 6 é aconselhado)."
+
+#: inc/theme-custom-composer.php:72
+msgid "Tee Events"
+msgstr "Eventos Tee"
+
+#: inc/theme-custom-composer.php:74
+msgid "Display all the events (only full width please, no columns)."
+msgstr ""
+"Exiba todos os eventos (apenas largura total por favor, não há colunas)."
+
+#: inc/theme-custom-composer.php:85
+msgid "Link to the events page, where all the events are displayed."
+msgstr "Link para a página de eventos, onde todos os eventos são exibidos."
+
+#: inc/theme-custom-composer.php:99
+msgid "Tee Gallery"
+msgstr "Galeria Tee"
+
+#: inc/theme-custom-composer.php:101
+msgid "Display all the gallery posts (only full width please, no columns)."
+msgstr ""
+"Exiba toda a Galeria de posts (somente largura total por favor, não há "
+"colunas)."
+
+#: inc/theme-custom-composer.php:112
+msgid "Link to the gallery page, where all the photos are displayed."
+msgstr "Link para a página de galeria, onde todas as fotos são exibidas."
+
+#: inc/theme-custom-composer.php:118
+msgid "Number images displayed"
+msgstr "Números imagens exibidas"
+
+#: inc/theme-custom-composer.php:121
+msgid "Only number please (between 8 and 32, 14 is advised)."
+msgstr "Somente números por favor (entre 8 e 32, 14 é aconselhado)."
+
+#: inc/theme-custom-composer.php:127
+msgid "Category"
+msgstr "Categoria"
+
+#: inc/theme-custom-composer.php:130
+msgid ""
+"If you want to display only a special category just copy/past the slug "
+"catgeory."
+msgstr ""
+"Se você deseja exibir apenas uma categoria em especial copie/cole o slug da "
+"categoria."
+
+#: inc/theme-custom-composer.php:135
+msgid "Tee Contact"
+msgstr "Contato Tee"
+
+#: inc/theme-custom-composer.php:137
+msgid ""
+"Display the contact form, using the address email typed into the options "
+"panel."
+msgstr ""
+"Exibir o formulário de contato, usando o e-mail de endereço digitado no "
+"painel de opções."
+
+#: inc/theme-custom-composer.php:145
+msgid "Form Title"
+msgstr "Título do Formulário"
+
+#: inc/theme-custom-composer.php:147
+msgid "Get in touch now."
+msgstr "Entre em contato agora."
+
+#: inc/theme-custom-composer.php:153
+msgid "Display information in the form ? true or false"
+msgstr "Exibir informações no formulário? verdadeiro ou falso"
+
+#: inc/theme-custom-composer.php:155
+msgid "true"
+msgstr "verdadeiro"
+
+#: inc/theme-custom-composer.php:160
+msgid "Tee Large Title"
+msgstr "Título Grande Tee"
+
+#: inc/theme-custom-composer.php:162
+msgid "Title which looks like to page title."
+msgstr "Título que se parece com o título da página."
+
+#: inc/theme-custom-composer.php:170
+msgid "Heading Title"
+msgstr "Titulo do Cabeçalho"
+
+#: inc/theme-custom-composer.php:172
+msgid "Title here"
+msgstr "Título aqui"
+
+#: inc/theme-custom-composer.php:177
+msgid "Tee Map"
+msgstr "Mapa Tee"
+
+#: inc/theme-custom-composer.php:187
+msgid "Map Height"
+msgstr "Altura do mapa"
+
+#: inc/theme-custom-composer.php:195
+msgid "GPS coordinates"
+msgstr "Coordenadas GPS"
+
+#: inc/theme-custom-composer.php:198
+msgid ""
+"Find out them here -> <a href=\"http://itouchmap.com/latlong.html\">LatLong</"
+"a>, just copy/past."
+msgstr ""
+"Descubra-os aqui-> <a href=\"http://itouchmap.com/latlong.html\">LatLong</"
+"a>, apenas copie/cole."
+
+#: inc/theme-custom-composer.php:203
+msgid "Tee Button"
+msgstr "Botão Tee"
+
+#: inc/theme-custom-composer.php:205
+msgid "Button with theme's style."
+msgstr "Botão com o estilo do tema."
+
+#: inc/theme-custom-composer.php:213 inc/theme-custom-composer.php:215
+msgid "Button Content"
+msgstr "Botão Conteúdo"
+
+#: inc/theme-custom-composer.php:221
+msgid "Button URL"
+msgstr "Botão URL"
+
+#: inc/theme-custom-composer.php:229
+msgid "Icon Name"
+msgstr "Nome do ícone"
+
+#: inc/theme-custom-composer.php:232
+msgid "Find out them here -> <a href=\""
+msgstr "Descubra-os aqui-> < a href=\""
+
+#: inc/theme-customizer.php:21
+msgid "Tee Options"
+msgstr "Opções Tee"
+
+#: inc/theme-customizer.php:24
+msgid "Allows you to customize some example settings for tee."
+msgstr "Permite que você personalize algumas configurações de exemplo para tee"
+
+#: inc/theme-customizer.php:51
+msgid "Color #1"
+msgstr "Cor #1"
+
+#: inc/theme-customizer.php:61
+msgid "Color #2"
+msgstr "Cor #2"
+
+#: inc/theme-customizer.php:71
+msgid "Header Text Color"
+msgstr "Cor do texto do Cabeçalho"
+
+#: inc/theme-customizer.php:81
+msgid "Background  Options"
+msgstr "Opções do Background"
+
+#: inc/theme-customizer.php:160
+msgid "Boxed Layout  Options"
+msgstr "Opções Layout Boxed"
+
+#: inc/theme-customizer.php:196
+msgid "Fonts"
+msgstr "Fontes"
+
+#: inc/theme-forms.php:12 inc/theme-forms.php:28
+msgid "Search..."
+msgstr "Buscar…"
+
+#: inc/theme-forms.php:63 single-courses.php:203 single-events.php:312
+msgid "Comment"
+msgstr "Comentário"
+
+#: inc/theme-init.php:26
+msgid "Top primary menu"
+msgstr "Menu principal do topo"
+
+#: inc/theme-init.php:77
+msgid "Blog Sidebar"
+msgstr "Barra Lateral do Blog"
+
+#: inc/theme-init.php:79
+msgid "Sidebar that appears on the right for the blog page."
+msgstr "Barra lateral que aparece à direita da página do blog."
+
+#: inc/theme-init.php:86
+msgid "Footer Widgets"
+msgstr "Widgets de Rodapé"
+
+#: inc/theme-init.php:88
+msgid "Appears in the footer section of the site."
+msgstr "Aparece na seção rodapé do site."
+
+#: inc/theme-init.php:118
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/theme-init.php:129 inc/theme-init.php:130
+msgid ", "
+msgstr ","
+
+#: inc/theme-init.php:272 inc/theme-init.php:275
+msgid "at"
+msgstr "às"
+
+#: inc/theme-login.php:14
+msgid "Sign In"
+msgstr "Entrar"
+
+#: inc/theme-login.php:33
+msgid "Login"
+msgstr "Login"
+
+#: inc/theme-login.php:34
+msgid "Password"
+msgstr "Senha"
+
+#: inc/theme-login.php:55
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+#: inc/theme-login.php:56 inc/theme-plugins.php:158
+msgid "Log In"
+msgstr "Entrar"
+
+#: inc/theme-panel/theme-settings.php:42
+msgid "General"
+msgstr "Geral"
+
+#: inc/theme-panel/theme-settings.php:45
+msgid "Design Customization"
+msgstr "Personalização de Design"
+
+#: inc/theme-panel/theme-settings.php:51
+msgid "Website Logo"
+msgstr "Logotipo Site"
+
+#: inc/theme-panel/theme-settings.php:52
+msgid "Upload a custom logo for your Website."
+msgstr "Fazer upload de um logotipo personalizado para o seu site."
+
+#: inc/theme-panel/theme-settings.php:57
+msgid "Boxed Layout ?"
+msgstr "Layout Boxed?"
+
+#: inc/theme-panel/theme-settings.php:58
+msgid "Enable the boxed layout (for all the website)."
+msgstr "Habilite o layout boxed (para todo o site)."
+
+#: inc/theme-panel/theme-settings.php:63
+msgid "Slider on HomePage ?"
+msgstr "Slide na Home Page?"
+
+#: inc/theme-panel/theme-settings.php:64
+msgid "Display revolution slider \"home\" on the home page"
+msgstr "Exibir Revolution Slide \"home\"  na página inicial"
+
+#: inc/theme-panel/theme-settings.php:69
+msgid "Buddypress private"
+msgstr "BuddyPress privado"
+
+#: inc/theme-panel/theme-settings.php:70
+msgid ""
+"Do you want to display all the members pages (buddypress) private, \n"
+"\t\t\tonly for not-logged user ? will display the login form instead of the "
+"content.."
+msgstr ""
+"Você quer exibir todos as páginas do membros (buddypress) privados, \n"
+"\t\t\tonly por usuário não-registrado? será exibido o formulário de login em "
+"vez do conteúdo..."
+
+#: inc/theme-panel/theme-settings.php:76
+msgid "Events order ?"
+msgstr "Ordenar eventos?"
+
+#: inc/theme-panel/theme-settings.php:77
+msgid "Otherwise, it will be ascending order."
+msgstr "Caso contrário, ele irá ser ordem crescente."
+
+#: inc/theme-panel/theme-settings.php:83
+msgid "Events Date format ?"
+msgstr "Formato Data Eventos ?"
+
+#: inc/theme-panel/theme-settings.php:89
+msgid "Number of images displayed in the gallery page"
+msgstr "Número de imagens exibidas na página da Galeria"
+
+#: inc/theme-panel/theme-settings.php:96
+msgid "Headlines Decorations "
+msgstr "Decorações de manchetes"
+
+#: inc/theme-panel/theme-settings.php:97
+msgid "Do you want to see the decorations under the titles."
+msgstr "Você quer ver as decorações sob os títulos."
+
+#: inc/theme-panel/theme-settings.php:102
+msgid "Enable CSS3 Animations ?"
+msgstr "Permitir animações CSS3?"
+
+#: inc/theme-panel/theme-settings.php:103
+msgid "Do you want to animate all your content with some fresh CSS3 animations"
+msgstr "Você quer animar todo o seu conteúdo com algumas animações CSS3?"
+
+#: inc/theme-panel/theme-settings.php:108
+msgid "Favicon"
+msgstr "Favicon"
+
+#: inc/theme-panel/theme-settings.php:109
+msgid ""
+"Upload a 16px x 16px image that will represent your website's favicon.<br /"
+"><br /><em>To ensure cross-browser compatibility, we recommend converting "
+"the favicon into .ico format before uploading. </em>"
+msgstr "Envie uma imagem 16px x 16px Png/Gif para ser a Favicon de seu site."
+
+#: inc/theme-panel/theme-settings.php:114
+msgid "Bookmark icon for IOS (retina)"
+msgstr "Ícone de Favoritos para iOS (retina)"
+
+#: inc/theme-panel/theme-settings.php:115
+msgid "Upload a 114px x 114px image displayed on your Apple's devices."
+msgstr ""
+"Fazer upload de uma imagem de 114px X 114px exibida nos dispositivos da "
+"Apple."
+
+#: inc/theme-panel/theme-settings.php:120
+msgid "Bookmark icon for IOS (not retina)"
+msgstr "Ícone de Favoritos para iOS (retina)"
+
+#: inc/theme-panel/theme-settings.php:121
+msgid "Upload a 72px x 72px image displayed on your Apple's devices."
+msgstr ""
+"Fazer upload de uma imagem de 72px X 72px  para ser exibida nos dispositivos "
+"da Apple."
+
+#: inc/theme-panel/theme-settings.php:126
+msgid "Tracking Code"
+msgstr "Código de Rastreamento"
+
+#: inc/theme-panel/theme-settings.php:127
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr "Cole o Google Analytics (ou outro) código de rastreamento aqui."
+
+#: inc/theme-panel/theme-settings.php:132
+msgid "Custom CSS"
+msgstr "CSS Personalizados"
+
+#: inc/theme-panel/theme-settings.php:133
+msgid "Add some custom CSS code here if you want."
+msgstr "Adicione algum código CSS personalizado aqui se quiser."
+
+#: inc/theme-panel/theme-settings.php:138
+msgid "Custom JS"
+msgstr "JS Personalizados"
+
+#: inc/theme-panel/theme-settings.php:139
+msgid "Add some custom Javascript code here if you want."
+msgstr "Adicione algum código Javascript personalizado aqui se quiser."
+
+#: inc/theme-panel/theme-settings.php:145
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/theme-panel/theme-settings.php:148
+msgid "Display Top Bar ?"
+msgstr "Exibir barra superior?"
+
+#: inc/theme-panel/theme-settings.php:149
+msgid "Top bar with the contact informations and the languages"
+msgstr "Barra superior com as informações de contato e os idiomas"
+
+#: inc/theme-panel/theme-settings.php:154
+msgid "Header height"
+msgstr "Altura do Cabeçalho"
+
+#: inc/theme-panel/theme-settings.php:155
+msgid "height of the header (in pixel)"
+msgstr "altura do cabeçalho (em pixel)"
+
+#: inc/theme-panel/theme-settings.php:160
+msgid "Logo Size"
+msgstr "Tamanho Logotipo"
+
+#: inc/theme-panel/theme-settings.php:161
+msgid "Width of the logo's image (in pixel)"
+msgstr "Largura da imagem do logotipo (em pixel)"
+
+#: inc/theme-panel/theme-settings.php:166
+msgid "Logo Margins"
+msgstr "Margens do logotipo"
+
+#: inc/theme-panel/theme-settings.php:167
+msgid "Margins logo (top, right, bottom, left)"
+msgstr "Margens do Logotipo (superior, direita, inferior, esquerda)"
+
+#: inc/theme-panel/theme-settings.php:172
+msgid "Menu Layout"
+msgstr "Layout do Menu"
+
+#: inc/theme-panel/theme-settings.php:173
+msgid ""
+"Choose your menu layout. \"1\"is default menu (centered logo, menu below), "
+"\"2\" is menu at the right and the logo at the left."
+msgstr ""
+"Escolha o layout do menu. \"1\" é o menu padrão (logotipo centralizado, "
+"abaixo do menu), \"2\" é o menu na direita e o logotipo no canto esquerdo."
+
+#: inc/theme-panel/theme-settings.php:179
+msgid "Fixed Navigation"
+msgstr "Navegação Fixa"
+
+#: inc/theme-panel/theme-settings.php:180
+msgid "Do you want the header navigation to be fixed on scroll."
+msgstr "Você quer a navegação do cabeçalho fique fixo na rolagem?"
+
+#: inc/theme-panel/theme-settings.php:185
+msgid "Fixed Logo"
+msgstr "Logotipo Fixo"
+
+#: inc/theme-panel/theme-settings.php:186
+msgid "Upload a custom logo for your the fixed navbar."
+msgstr "Upload um logotipo para barra de navegação fixa."
+
+#: inc/theme-panel/theme-settings.php:191
+msgid "Menu Margins"
+msgstr "Margens do menu"
+
+#: inc/theme-panel/theme-settings.php:192
+msgid "Margins of the menu (top, right, bottom, left)"
+msgstr "Margens do menu (superior, direita, inferior, esquerda)"
+
+#: inc/theme-panel/theme-settings.php:197
+msgid "Submenu Opacity"
+msgstr "Opacidade do submenu"
+
+#: inc/theme-panel/theme-settings.php:198
+msgid "A number between 0 and 1 for the opacity of the background."
+msgstr "Um número entre 0 e 1 para a opacidade do background."
+
+#: inc/theme-panel/theme-settings.php:203
+msgid "Menu font, bold ?"
+msgstr "Fonte do menu, bold (realce)?"
+
+#: inc/theme-panel/theme-settings.php:204
+msgid "Bold option for the menu's text"
+msgstr "Opção em negrito para o texto do menu"
+
+#: inc/theme-panel/theme-settings.php:209
+msgid "Search Form ?"
+msgstr "Formulário de pesquisa?"
+
+#: inc/theme-panel/theme-settings.php:210
+msgid ""
+"The magnifying glass into the menu which allow your visitor to access to the "
+"search form directly from the menu."
+msgstr ""
+"A lupa para o menu, permitindo que o seu visitante acessar o formulário de "
+"pesquisa diretamente do menu."
+
+#: inc/theme-panel/theme-settings.php:215
+msgid "Display Social icons into the Top Bar ?"
+msgstr "Exibir Ícones Sociais na barra do topo?"
+
+#: inc/theme-panel/theme-settings.php:222
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/theme-panel/theme-settings.php:225
+msgid "Footer text"
+msgstr "Texto do Rodapé"
+
+#: inc/theme-panel/theme-settings.php:226
+msgid "Text into the footer with the copyright."
+msgstr "Texto para o rodapé com os direitos autorais."
+
+#: inc/theme-panel/theme-settings.php:232
+msgid "Social-Networks"
+msgstr "Redes-Sociais"
+
+#: inc/theme-panel/theme-settings.php:235
+msgid "Enable a network"
+msgstr "Habilitar uma rede"
+
+#: inc/theme-panel/theme-settings.php:241
+msgid "New window ?"
+msgstr "Nova janela?"
+
+#: inc/theme-panel/theme-settings.php:242
+msgid "Open social link in a new window after clicking"
+msgstr "Abrir link social em uma nova janela após clicar"
+
+#: inc/theme-panel/theme-settings.php:247
+msgid "facebook"
+msgstr "Facebook"
+
+#: inc/theme-panel/theme-settings.php:253
+msgid "twitter"
+msgstr "Twitter"
+
+#: inc/theme-panel/theme-settings.php:259
+msgid "vimeo"
+msgstr "Vimeo"
+
+#: inc/theme-panel/theme-settings.php:265
+msgid "google plus"
+msgstr "Google Plus"
+
+#: inc/theme-panel/theme-settings.php:271
+msgid "flickr"
+msgstr "Flickr"
+
+#: inc/theme-panel/theme-settings.php:277
+msgid "pinterest"
+msgstr "Pinterest:"
+
+#: inc/theme-panel/theme-settings.php:283
+msgid "tumblr"
+msgstr "Tumblr"
+
+#: inc/theme-panel/theme-settings.php:289
+msgid "instagram"
+msgstr "Instagram"
+
+#: inc/theme-panel/theme-settings.php:295
+msgid "linkedin"
+msgstr "Linkedin:"
+
+#: inc/theme-panel/theme-settings.php:301
+msgid "rss"
+msgstr "RSS"
+
+#: inc/theme-panel/theme-settings.php:308
+msgid "Contact-Informations"
+msgstr "Informações-Contato"
+
+#: inc/theme-panel/theme-settings.php:311 single-courses.php:197
+#: single-events.php:306
+msgid "Address"
+msgstr "Endereço"
+
+#: inc/theme-panel/theme-settings.php:316
+msgid "Mail"
+msgstr "Email"
+
+#: inc/theme-plugins.php:117
+#: inc/theme-plugins/class-tgm-plugin-activation.php:226
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: inc/theme-plugins.php:118
+#: inc/theme-plugins/class-tgm-plugin-activation.php:227
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: inc/theme-plugins.php:119
+#: inc/theme-plugins/class-tgm-plugin-activation.php:228
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin:% s"
+
+#: inc/theme-plugins.php:120
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: inc/theme-plugins.php:121
+#: inc/theme-plugins/class-tgm-plugin-activation.php:230
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+#: inc/theme-plugins.php:122
+#: inc/theme-plugins/class-tgm-plugin-activation.php:231
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plugins: %1$s."
+
+#: inc/theme-plugins.php:123
+#: inc/theme-plugins/class-tgm-plugin-activation.php:232
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Desculpe, mas você não tem as permissões para instalar o plugin %s. Contate "
+"o administrador do site para obter ajuda sobre como instalar o plugin."
+msgstr[1] ""
+"Desculpe, mas você não tem as permissões para instalar os plugins %s. "
+"Contate o administrador do site para obter ajuda sobre como instalar os "
+"plugins."
+
+#: inc/theme-plugins.php:124
+#: inc/theme-plugins/class-tgm-plugin-activation.php:233
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin necessário está atualmente inativo: %1$s."
+msgstr[1] "Os seguintes plugins necessários estão atualmente inativos: %1$s."
+
+#: inc/theme-plugins.php:125
+#: inc/theme-plugins/class-tgm-plugin-activation.php:234
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plug-in recomendado está atualmente inativo: %1$s"
+msgstr[1] "Os seguintes plug-ins recomendados estão atualmente inativos: %1$s"
+
+#: inc/theme-plugins.php:126
+#: inc/theme-plugins/class-tgm-plugin-activation.php:235
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Desculpe, mas você não tem permissões para ativar o plugin %s. Contate com o "
+"administrador do site para obter ajuda sobre como ativar o plugin."
+msgstr[1] ""
+"Desculpe, mas você não tem permissões para ativar os plugins %s. Contate com "
+"o administrador do site para obter ajuda sobre como ativar os plugins."
+
+#: inc/theme-plugins.php:127
+#: inc/theme-plugins/class-tgm-plugin-activation.php:236
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"O seguinte plugin precisa ser atualizado para a versão mais recente para "
+"garantir o máximo de compatibilidade com este tema: %1$s."
+msgstr[1] ""
+"Os seguintes plugins precisam ser atualizados para a versão mais recente "
+"para garantir o máximo de compatibilidade com este tema: %1$s."
+
+#: inc/theme-plugins.php:128
+#: inc/theme-plugins/class-tgm-plugin-activation.php:237
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Desculpe, mas você não tem as permissão para atualizar o plugin %s. Contate "
+"com o administrador do site para obter ajuda sobre como atualizar o plugin."
+msgstr[1] ""
+"Desculpe, mas você não tem as permissão para atualizar os plugins %s. "
+"Contate com o administrador do site para obter ajuda sobre como atualizar os "
+"plugins."
+
+#: inc/theme-plugins.php:129
+#: inc/theme-plugins/class-tgm-plugin-activation.php:238
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comece Instalando o Plugin"
+msgstr[1] "Comece Instalando os Plugins"
+
+#: inc/theme-plugins.php:130
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Ative Plugin Instalado"
+msgstr[1] "Ative Plugins Instalados"
+
+#: inc/theme-plugins.php:131
+#: inc/theme-plugins/class-tgm-plugin-activation.php:240
+msgid "Return to Required Plugins Installer"
+msgstr "Retornar para Instalar Plugins Requeridos"
+
+#: inc/theme-plugins.php:132
+#: inc/theme-plugins/class-tgm-plugin-activation.php:242
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2107
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: inc/theme-plugins.php:133
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos os plug-ins foram instalados e ativados com sucesso. %s"
+
+#: inc/theme-plugins.php:162
+msgid "Hello"
+msgstr "Olá"
+
+#: inc/theme-plugins.php:167
+msgid "Members"
+msgstr "Membros"
+
+#: inc/theme-plugins.php:170
+msgid "Groups"
+msgstr "Grupos"
+
+#: inc/theme-plugins.php:173
+msgid "Activity"
+msgstr "Atividade"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr "Algo deu errado."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:239
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comece ativando plug-in"
+msgstr[1] "Comece ativando plug-ins"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr "Retornar para o painel"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:243
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1769
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado com sucesso:"
+msgstr[1] "Os seguintes plugins foram ativados com sucesso:"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plug-ins foram instalados e ativados com sucesso. %1$s"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr "Fechar este aviso"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:595
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2337
+msgid "Return to the Dashboard"
+msgstr "Retornar ao Painel"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1281
+msgid "Private Repository"
+msgstr "Repositório privado"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1285
+msgid "Pre-Packaged"
+msgstr "Pré-Embalados"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1290
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1293
+msgid "Required"
+msgstr "Obrigatório"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1293
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1296
+msgid "Not Installed"
+msgstr "Não Instalado"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1299
+msgid "Installed But Not Activated"
+msgstr "Instalado Mas Não Ativado"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1416
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1438
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1481
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+"Sem plugins para instalar ou ativar. <a href=\"%1$s\"> Retornar ao Painel</a>"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1497
+msgid "Plugin"
+msgstr "Plug-in"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1498
+msgid "Source"
+msgstr "Fonte"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1499
+msgid "Type"
+msgstr "Tipo:"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1500
+msgid "Status"
+msgstr "Status"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1518
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1519
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be installed at this time."
+msgstr "Não há plugins a serem instalados neste momento."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:1746
+msgid "No plugins are available to be activated at this time."
+msgstr "Não há plugins a serem instalados neste momento."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2090
+msgid "Install package not available."
+msgstr "Pacote de instalação não disponível."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2091
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Baixando Pacote de Instalação <span class=\"code\">%s</span>&#8230;"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2092
+msgid "Unpacking the package&#8230;"
+msgstr "Descompactando o pacote&#8230;"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2093
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando o plugin&#8230;"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2094
+msgid "Plugin install failed."
+msgstr "Falha ao instalar plugin."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2095
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado com sucesso."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2106
+msgid "Plugin activation failed."
+msgstr "Falha de ativação Plugin."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2229
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Um erro ocorreu durante a instalação %1$s: <strong>%2$s</strong>."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2230
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2234
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Os processos de instalação e ativação foram iniciados. Este processo pode "
+"demorar um pouco em alguns servidores, então por favor, seja paciente."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2235
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2242
+msgid "Show Details"
+msgstr "Exibir Detalhes"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2235
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2242
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2236
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2237
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e Ativando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2241
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O processo de instalação foi iniciado. Este processo pode demorar um pouco "
+"em alguns servidores, então por favor seja paciente."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2243
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+#: inc/theme-plugins/class-tgm-plugin-activation.php:2244
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/theme-widget.php:96 inc/theme-widget.php:171
+msgid "Title :"
+msgstr "Título:"
+
+#: inc/theme-woocommerce.php:26
+msgid "Add to cart"
+msgstr "Adicionar ao carrinho"
+
+#: inc/theme-woocommerce.php:57
+msgid "Unit Price"
+msgstr "Preço Unitário"
+
+#: inc/theme-woocommerce.php:58 woocommerce/cart/cart.php:30
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: inc/theme-woocommerce.php:65 woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr "Seu carrinho está vazio"
+
+#: inc/theme-woocommerce.php:69 woocommerce/cart/cart-totals.php:22
+#: woocommerce/checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "Subtotal do Carrinho"
+
+#: inc/theme-woocommerce.php:71 woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr "Ver Carrinho"
+
+#: inc/theme-woocommerce.php:72 woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr "Confira"
+
+#: page-gallery.php:37
+msgid "All"
+msgstr "Todos"
+
+#: page-sitemap.php:48
+msgid "Pages"
+msgstr "Páginas"
+
+#: page-sitemap.php:60
+msgid "Categories"
+msgstr "Categorias"
+
+#: search.php:31
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa para:% s"
+
+#: single-courses.php:40
+msgid "Course Information"
+msgstr "Informações Sobre Curso"
+
+#: single-courses.php:63 single-events.php:87
+msgid "Subscribe now"
+msgstr "Inscreva-se Agora"
+
+#: single-courses.php:134 single-events.php:176
+#, php-format
+msgid "New Subscription from your website %d"
+msgstr "Nova inscrição a partir do seu site %d"
+
+#: single-courses.php:157 single-events.php:266
+msgid "Your subscription was sent successfully."
+msgstr "Sua inscrição foi enviada com sucesso."
+
+#: single-courses.php:164 single-events.php:273
+msgid ""
+"Your subscription can't be send...check if your email is correct otherwise a "
+"field is missing..."
+msgstr ""
+"Sua mensagem não pôde ser enviada... Cheque se seu e-mail está correto, caso "
+"contrário um campo pode estar faltando..."
+
+#: single-courses.php:171 single-events.php:280
+msgid "Only mobile: better rendering on a desktop/laptop, or zoom out"
+msgstr ""
+"Para Móveis: melhor visualização em um desktop/laptop, ou diminuir o zoom"
+
+#: single-courses.php:173 single-events.php:282
+msgid "First Name"
+msgstr "Nome"
+
+#: single-courses.php:179 single-events.php:288
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: single-courses.php:191 single-events.php:300
+msgid "Phone number"
+msgstr "Número de telefone"
+
+#: single-courses.php:211 single-events.php:320
+msgid "Subscribe"
+msgstr "Inscrever!"
+
+#: single-events.php:59
+msgid "End:"
+msgstr "Fim:"
+
+#: single-events.php:224 single-events.php:235
+msgid "Day"
+msgstr "Dia"
+
+#: single-events.php:225 single-events.php:236
+msgid "Hour"
+msgstr "Hora"
+
+#: single-events.php:226 single-events.php:237
+msgid "Minute"
+msgstr "Minuto"
+
+#: single-events.php:227 single-events.php:238
+msgid "Second"
+msgstr "Segundo"
+
+#: single-events.php:249
+msgid "You have to login to see this private event."
+msgstr "Você tem que logar-se para ver este evento privado."
+
+#: woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr "Seu carrinho está vazio"
+
+#: woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr "Retornar à loja"
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr "Frete #%d"
+
+#: woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr "Frete e Entrega"
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Favor use a calculadora de frete para ver os métodos de envio disponíveis."
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Por favor, continue à verificação e digitar o endereço completo para ver se "
+"existem quaisquer métodos de envio disponíveis."
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"Por favor, preencha os seus dados para ver os métodos de envio disponíveis."
+
+#: woocommerce/cart/cart-shipping.php:72 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"Não existe nenhum método de frete disponível para este endereço. Por Favor "
+"verifique atentamente o seu endereço ou contate-nos para receber ajuda."
+
+#: woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr "Entrega"
+
+#: woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr "Total do Carrinho"
+
+#: woocommerce/cart/cart-totals.php:76
+#: woocommerce/checkout/review-order.php:80
+msgid "Order Total"
+msgstr "Total do Pedido"
+
+#: woocommerce/cart/cart-totals.php:88
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(Taxas estimadas para %s)"
+
+#: woocommerce/cart/cart-totals.php:91
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Nota: O envio e impostos são estimados em %s e serão atualizados durante o "
+"checkout com base na sua conta e informações de envio."
+
+#: woocommerce/cart/cart.php:28 woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:19
+msgid "Product"
+msgstr "Produto"
+
+#: woocommerce/cart/cart.php:29
+msgid "Price"
+msgstr "Preço"
+
+#: woocommerce/cart/cart.php:31 woocommerce/checkout/review-order.php:20
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:48
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "Disponível, Encomenda Pendente"
+
+#: woocommerce/cart/cart.php:120
+msgid "Coupon"
+msgstr "Cupom"
+
+#: woocommerce/cart/cart.php:120 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr "Código de Cupom"
+
+#: woocommerce/cart/cart.php:120 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr "Usar Cupom"
+
+#: woocommerce/cart/cart.php:127
+msgid "Update Cart"
+msgstr "Atualizar Carrinho"
+
+#: woocommerce/cart/cart.php:127
+msgid "Proceed to Checkout"
+msgstr "Finalizar compra"
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr "Você pode estar interessado em em&hellip;"
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr "Sub-total:"
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Calcular frete"
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr "Selecione um país&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr "Estado/UF"
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr "Selecione um estado&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr "Cidade"
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "CEP"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr "Atualizar Totais"
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Existem alguns problemas com os itens no seu carrinho (mostrado acima). Por "
+"favor, volte para a página do carrinho e resolva esses problemas antes de "
+"finalizar sua compra."
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr "Retornar para carrinho"
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr "Faturamento e Expedição"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr "Detalhes de faturamento"
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr "Criar uma Conta?"
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Crie uma conta inserindo os dados abaixo. Se já é nosso cliente, por favor "
+"faça o login no topo da página."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Você deve estar logado para finalizar a compra."
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr "Seu Pedido"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "Possui Cupom?"
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr "Clique aqui para inserir seu código do cupom"
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr "Já é cliente?"
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr "Clique aqui para entrar"
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Se já comprou conosco antes por favor insira os seus dados nos campos "
+"abaixo. Se é um novo cliente, por favor proceda para Faturamento e Frete."
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr "Quantid."
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr "Totais"
+
+#: woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr "Pagamento"
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Desculpe, parece que não existem métodos de pagamento disponíveis para sua "
+"localização. Entre em contato conosco se você precisar de ajuda ou quiser "
+"fazer um pagamento alternativo."
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr "Pagamento do pedido"
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr "Enviar para um endereço diferente?"
+
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr "Informações Adicionais"
+
+#: woocommerce/checkout/review-order.php:151
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Por favor, preencha os seus dados acima para ver as formas de pagamento "
+"disponíveis."
+
+#: woocommerce/checkout/review-order.php:153
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Desculpe, parece que não existem métodos de pagamento disponíveis para sua "
+"localização. Entre em contato conosco se você precisar de ajuda ou quiser "
+"fazer um pagamento alternativo."
+
+#: woocommerce/checkout/review-order.php:164
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"O seu navegador não suporta JavaScript, ou ele está desativado, por favor, "
+"certifique-se de clicar no botão <em>Atualizar Total</em> antes de finalizar "
+"sua compra. Isto pode gerar erro no valor cobrado se você não o fizer."
+
+#: woocommerce/checkout/review-order.php:164
+msgid "Update totals"
+msgstr "Atualizar totais"
+
+#: woocommerce/checkout/review-order.php:171
+msgid "Place order"
+msgstr "Finalizar Pedido"
+
+#: woocommerce/checkout/review-order.php:180
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"I&rsquo;Li e aceito os termos e condições <a href=\"%s\" target=\"_blank"
+"\">Termos &amp; Condições</a>"
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Infelizmente o seu pedido não pode ser processado com o banco/comerciante "
+"originário recusou sua transação."
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Por favor, tente efetuar sua compra novamente ou vá até a página da sua "
+"conta."
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr "Por favor, tente efetuar sua compra novamente."
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Minha Conta"
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr "Obrigado. Seu pedido foi recebido."
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr "Pedido:"
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr "Data:"
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr "Total:"
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr "Forma de pagamento:"
+
+#: woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr "Nenhum produto encontrado para sua pesquisa."
+
+#: woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr "Ordem Padrão"
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr "Ordenar por Popularidade"
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr "Ordenar por Avaliação"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr "Ordenar pelo Mais Novo"
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr "Ordenar por preço: menor para maior"
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr "Ordenar por preço: maior para menor"
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr "Mostrando o único resultado"
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr "Mostrando todos os %d resultados"
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr "Mostrando resultados %1$d–%2$d de %3$d"
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr "Venda!"
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s avaliação para %s"
+msgstr[1] "%s avaliações para %s"
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr "Avaliações"
+
+#: woocommerce/single-product-reviews.php:51
+msgid "There are no reviews yet."
+msgstr "Não há avaliações ainda."
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Send your reveiew"
+msgstr "Envie sua avaliação"
+
+#: woocommerce/single-product-reviews.php:73
+#, php-format
+msgid "Leave a review to %s"
+msgstr "Deixe uma avaliação para %s"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Cancel review"
+msgstr "Cancelar avaliação"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Post review"
+msgstr "Publicar Avaliação"
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Rate&hellip;"
+msgstr "Avaliação&hellip;"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Perfect"
+msgstr "Perfeito"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Good"
+msgstr "Bom"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Average"
+msgstr "Médio"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Not that bad"
+msgstr "Não é tão ruim"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Very Poor"
+msgstr "Ruim"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Review"
+msgstr "Sua Avaliação"
+
+#: woocommerce/single-product-reviews.php:99
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Apenas clientes logados que compraram este produto podem deixar uma "
+"avaliação."
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Escolha uma opção"
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr "Limpar seleção"
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este produto está atualmente fora de estoque e indisponível."
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr "N/D"
+
+#: woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoria:"
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr "Peso"
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr "Dimensões"
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Avaliado como %s de 5"
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr "fora de 5"
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s avaliação de cliente"
+msgstr[1] "%s avaliação de cliente"
+
+#: woocommerce/single-product/related.php:37
+msgid "Related Products"
+msgstr "Produtos Relacionados"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Avaliado como %d de 5"
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr "Seu comentário está aguardando aprovação"
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr "Proprietário verificado"
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Descrição do Produto"
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr "Talvez você também queira&hellip;"

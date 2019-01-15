@@ -1,0 +1,3 @@
+[24-Sep-2018 02:38:19 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/plugins/hello.php on line 60
+[24-Sep-2018 02:38:24 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/plugins/hello.php on line 60
+[21-Dec-2018 18:52:41 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/collec82/public_html/brightongolfclub.com.au/wp-content/plugins/hello.php on line 60

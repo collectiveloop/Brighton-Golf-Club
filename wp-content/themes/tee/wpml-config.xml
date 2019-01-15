@@ -1,0 +1,24 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">tee_event_address</custom-field>
+        <custom-field action="copy">tee_event_datetime</custom-field>
+        <custom-field action="copy">tee_event_gps</custom-field>
+        <custom-field action="copy">tee_event_location</custom-field>
+        <custom-field action="copy">tee_page_sidebar</custom-field>
+        <custom-field action="copy">tee_sponsor_url</custom-field>
+        <custom-field action="copy">tee_staff_email</custom-field>
+        <custom-field action="translate">tee_staff_job</custom-field>
+        <custom-field action="copy">_wpml_media_duplicate</custom-field>
+        <custom-field action="copy">_wpml_media_featured</custom-field>
+    </custom-fields> 
+    <custom-types>
+	 <custom-type translate="0">gallery</custom-type>
+	 <custom-type translate="1">events</custom-type>
+	 <custom-type translate="0">sponsor</custom-type>
+	 <custom-type translate="1">testimonial</custom-type>
+	 <custom-type translate="1">faq</custom-type>
+	 <custom-type translate="1">staff</custom-type>
+	</custom-types>
+</wpml-config>
+
+
